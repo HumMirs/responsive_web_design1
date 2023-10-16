@@ -1,0 +1,11 @@
+@mixin long_p {
+    font-style: italic;
+    line-height: 24px;
+    font-weight: normal;
+}
+
+@mixin button {
+    color: black;
+    padding: 12px 20px;
+    letter-spacing: 2px;
+}
